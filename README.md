@@ -3,4 +3,4 @@
 ## 学习记录
 - [x] 注册 GitHub
 - [x] 创建仓库
-- [ ] 提交第一个 Pull Request
+- [x] 提交第一个 Pull Request
